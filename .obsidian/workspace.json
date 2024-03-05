@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "1ac097267b215f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b813918eb44914e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89e478ef0efe770a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "artificial intelligence/teachablemachine/js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df39b0925c781631",
+    "type": "split",
+    "children": [
+      {
+        "id": "de0a4237b4fc8eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c22ffb6038f7c0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7489483febb4b12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "508050c2f6983565",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "819ae3643fbf8e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "d55e4d56102024c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de703a8d10de9618",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "artificial intelligence/teachablemachine/js.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68f730d0f766538a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "artificial intelligence/teachablemachine/js.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "294c4dfac13f7f31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04c01e00d6bf9ec8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "artificial intelligence/teachablemachine/js.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "89e478ef0efe770a",
+  "lastOpenFiles": [
+    "DigitalPlanner/프로젝트관리/images/trello_start_8.gif",
+    "DigitalPlanner/프로젝트관리/images/trello_start_7.png",
+    "DigitalPlanner/프로젝트관리/images/trello_start_6.gif",
+    "DigitalPlanner/프로젝트관리/images/trello_start_5.gif",
+    "DigitalPlanner/프로젝트관리/images/trello_start_4.png",
+    "DigitalPlanner/프로젝트관리/images/trello_start_3.png",
+    "DigitalPlanner/프로젝트관리/images/trello_start_2.png",
+    "DigitalPlanner/프로젝트관리/images/trello_start_1.png",
+    "DigitalPlanner/프로젝트관리/images/trello_7.gif",
+    "DigitalPlanner/프로젝트관리/images/trello_5.png",
+    "DigitalPlanner/프로젝트관리/images/trello_4.png",
+    "DigitalPlanner/프로젝트관리/5._외주개발_quickstart.md",
+    "DigitalPlanner/프로젝트관리/images",
+    "DigitalPlanner/프로젝트관리/4._trello_quickstart.md",
+    "DigitalPlanner/프로젝트관리/3._PM의_이슈관리.md",
+    "DigitalPlanner/프로젝트관리/2._프로젝트_관리방법.md",
+    "DigitalPlanner/프로젝트관리/1._project_기초상식.md",
+    "DigitalPlanner/프로젝트관리",
+    "DigitalPlanner/스토리보드/readme.md",
+    "DigitalPlanner/스토리보드",
+    "DigitalPlanner/개발자와대화법/개발자와_대화법.md",
+    "DigitalPlanner/개발자와대화법/images",
+    "DigitalPlanner/개발자와대화법",
+    "DigitalPlanner/prompt/README.md",
+    "DigitalPlanner/prompt",
+    "DigitalPlanner/myExcalidraw/github_howto.excalidraw",
+    "DigitalPlanner/myExcalidraw",
+    "DigitalPlanner/github이슈관리/images",
+    "DigitalPlanner/github이슈관리/4._GITHUB_ISSUE관리.md",
+    "DigitalPlanner/github이슈관리",
+    "DigitalPlanner/git_obsidian/5._개발자와_디자이너_협업툴.md",
+    "DigitalPlanner/git_obsidian/4._Obsidian과_markdown.md",
+    "DigitalPlanner/git_obsidian/3._GITHUB_활용.md",
+    "DigitalPlanner/git_obsidian/2._PM에게_필요한GIT.md",
+    "DigitalPlanner/git_obsidian/2.9_브랜치합치기_mvp_3.md",
+    "DigitalPlanner/git_obsidian/2.8_브랜치만들기_mvp_2.md",
+    "DigitalPlanner/git_obsidian/2.7_브랜치만들기_mvp_1.md",
+    "DigitalPlanner/git_obsidian/2.6_파일내용_변경해서_커밋하기 2.md",
+    "DigitalPlanner/git_obsidian/2.5_파일내용_변경해서_커밋하기 1.md",
+    "DigitalPlanner/git_obsidian/2.4_파일추가해서_커밋하기.md",
+    "DigitalPlanner/git_obsidian/2.3_localgit_최초_커밋하기.md",
+    "DigitalPlanner/git_obsidian/2.2_localgit_생성하기.md",
+    "DigitalPlanner/git_obsidian/2.1_sourcetree설치.md",
+    "DigitalPlanner/git_obsidian/2.10_sourcetree_참고사항.md",
+    "DigitalPlanner/git_obsidian/2.0_초간단GIT.md",
+    "DigitalPlanner/git_obsidian/1._PM의역할.md"
+  ]
+}
