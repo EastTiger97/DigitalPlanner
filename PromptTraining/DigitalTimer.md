@@ -78,6 +78,8 @@ HTML과 Javascript
 </html>
 
 ```
+
+
 ##### OutPut
 
 ![](images/1.png)
@@ -144,61 +146,6 @@ updateClock();
 ```
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>디지털 시계</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        #digitalClock {
-            font-size: 32pt;
-            color: red;
-            text-shadow: 2px 2px 4px #000;
-        }
-    </style>
-</head>
-<body>
-
-<div id="digitalClock"></div>
-
-<script>
-    function updateDigitalClock() {
-        // 현재 날짜 및 시간 가져오기
-        var currentDate = new Date();
-        
-        // 목표 날짜 및 시간 설정 (2023년 12월 31일)
-        var targetDate = new Date('2023-12-31T00:00:00');
-
-        // 남은 시간 계산
-        var remainingTime = targetDate - currentDate;
-
-        // 시, 분, 초 계산
-        var hours = Math.floor(remainingTime / (1000 * 60 * 60));
-        var minutes = Math.floor((remainingTime % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds = Math.floor((remainingTime % (1000 * 60)) / 1000);
-
-        // 남은 시간을 디지털 시계에 표시
-        var digitalClockElement = document.getElementById('digitalClock');
-        digitalClockElement.textContent = `${hours}시간 ${minutes}분 ${seconds}초`;
-
-        // 1초마다 업데이트
-        setTimeout(updateDigitalClock, 1000);
-    }
-
-    // 초기 호출
-    updateDigitalClock();
-</script>
-
-</body>
-</html>
 ##### OutPut
 ![](images/2.png)
 
