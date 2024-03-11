@@ -173,8 +173,7 @@ Web: https://output.jsbin.com/xotiguziwo
 
 </body>
 </html>
-#### Javascript
-
+#### JavaScript
 ```
 const targetDate = new Date(2023, 11, 31, 23, 59, 59); // 2023년 12월 31일 23시 59분 59초
 const clockElement = document.getElementById("clock");
