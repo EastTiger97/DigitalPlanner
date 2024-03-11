@@ -65,9 +65,11 @@
             "id": "4b1b863e309e48c0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Github(software)/2.png"
+                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github(software)/2.png",
+                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github(software)/2.png",
+                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github(software)/2.png"
+                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md"
               }
             }
           }
@@ -202,15 +204,15 @@
   },
   "active": "4b1b863e309e48c0",
   "lastOpenFiles": [
-    "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
     "Github(software)/디지털역량에 도움주는 소프트웨어 excalidraw.md",
+    "Github(software)/2.png",
+    "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_606.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_668.png",
     "Github(software)/ExcalidrawIMG",
     "[CrankWheel.md",
     "[ChatGPT.md",
     "레코딩(캡쳐) 소프트웨어.md",
-    "Github(software)/2.png",
     "Github(software)/1.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_604.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_573.png",
