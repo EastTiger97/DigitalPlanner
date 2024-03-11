@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6b813918eb44914e",
+        "id": "72f1f2ac55382df4",
         "type": "tabs",
         "children": [
           {
-            "id": "89e478ef0efe770a",
+            "id": "a20aa377c13f9e2f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Github(software)/Pasted image 20240311120237.png"
+                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github(software)/Pasted image 20240311120237.png",
+                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github(software)/Pasted image 20240311120237.png",
+                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github(software)/Pasted image 20240311120237.png"
+                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md"
               }
             }
           }
@@ -144,13 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "89e478ef0efe770a",
+  "active": "a20aa377c13f9e2f",
   "lastOpenFiles": [
-    "Github(software)/Pasted image 20240311120830.png",
+    "Github(software)/2.png",
+    "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
+    "Github(software)/1.png",
+    "KangDongSeSac_DX_1-main/git_obsidian/4._Obsidian과_markdown.md",
     "README.md",
     "Artificial Intelligence/Orange/explane.md",
-    "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
-    "Github(software)/Pasted image 20240311120237.png",
     "2024.03.11 DT에 도움을 주는 소프트웨어.md",
     "Github(software)",
     "무제 폴더",
@@ -181,7 +184,6 @@
     "KangDongSeSac_DX_1-main/프로젝트관리/1._project_기초상식.md",
     "KangDongSeSac_DX_1-main/프로젝트관리",
     "KangDongSeSac_DX_1-main/git_obsidian/5._개발자와_디자이너_협업툴.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/4._Obsidian과_markdown.md",
     "KangDongSeSac_DX_1-main/git_obsidian/3._GITHUB_활용.md",
     "KangDongSeSac_DX_1-main/git_obsidian/2._PM에게_필요한GIT.md",
     "KangDongSeSac_DX_1-main/git_obsidian/2.9_브랜치합치기_mvp_3.md",
