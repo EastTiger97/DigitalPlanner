@@ -69,14 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chat gpt.md",
+                "file": "PromptTraining/Chat GPT & Gemini Prompt training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63839868de42efea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PromptTraining/DigitalTimer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chat gpt.md",
+                "file": "PromptTraining/DigitalTimer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chat gpt.md",
+                "file": "PromptTraining/DigitalTimer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chat gpt.md"
+                "file": "PromptTraining/DigitalTimer.md"
               }
             }
           }
@@ -204,53 +216,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a1308b0493229ea",
+  "active": "63839868de42efea",
   "lastOpenFiles": [
-    "README.md",
-    "Chat gpt.md",
+    "PromptTraining/Chat GPT & Gemini Prompt training.md",
+    "PromptTraining/DigitalTimer.md",
+    "PromptTraining/DigtalTimerIMG/ChatGPTOut.png",
+    "PromptTraining/DigtalTimerIMG/GeminiOut.png",
     "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
-    "[Screen.md",
+    "Github(software)/ExcalidrawIMG/1.png",
+    "README.md",
+    "PromptTraining/DigtalTimerIMG",
+    "Chat.md",
+    "KangDongSeSac_DX_1-main/개발자와대화법/개발자와_대화법.md",
+    "Artificial Intelligence/teachablemachine/explane.md",
     "Github(software)/디지털역량에 도움주는 소프트웨어 excalidraw.md",
+    "KangDongSeSac_DX_1-main/git_obsidian/4._Obsidian과_markdown.md",
+    "PromptTraining",
+    "[Screen.md",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_668.png",
     "[CrankWheel.md",
     "레코딩(캡쳐) 소프트웨어.md",
     "[ChatGPT.md",
-    "Github(software)/2.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_606.png",
     "Github(software)/ExcalidrawIMG",
-    "Github(software)/1.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_604.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_573.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_527.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_503.png",
-    "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_481.png",
-    "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_475.png",
     "Excalidraw/Drawing 2024-03-11 12.41.54.excalidraw.md",
     "Excalidraw/Drawing 2024-03-11 12.38.27.excalidraw.md",
     "KangDongSeSac_DX_1-main/myExcalidraw/github_howto.excalidraw",
     "Excalidraw",
-    "KangDongSeSac_DX_1-main/git_obsidian/4._Obsidian과_markdown.md",
     "Artificial Intelligence/Orange/explane.md",
     "2024.03.11 DT에 도움을 주는 소프트웨어.md",
     "Github(software)",
     "artificial intelligence/teachablemachine/js.md",
     "Artificial Intelligence/teachablemachine/js.md",
-    "Artificial Intelligence/teachablemachine/explane.md",
     "Artificial Intelligence/teachablemachine",
     "Artificial Intelligence/Orange",
     "Artificial Intelligence",
-    "KangDongSeSac_DX_1-main/개발자와대화법/개발자와_대화법.md",
     "KangDongSeSac_DX_1-main/개발자와대화법/images",
-    "KangDongSeSac_DX_1-main/개발자와대화법",
     "KangDongSeSac_DX_1-main/스토리보드/readme.md",
-    "KangDongSeSac_DX_1-main/스토리보드",
     "KangDongSeSac_DX_1-main/프로젝트관리/5._외주개발_quickstart.md",
     "KangDongSeSac_DX_1-main/프로젝트관리/4._trello_quickstart.md",
     "KangDongSeSac_DX_1-main/프로젝트관리/3._PM의_이슈관리.md",
     "KangDongSeSac_DX_1-main/프로젝트관리/2._프로젝트_관리방법.md",
-    "KangDongSeSac_DX_1-main/프로젝트관리/1._project_기초상식.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/5._개발자와_디자이너_협업툴.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/3._GITHUB_활용.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/2._PM에게_필요한GIT.md"
+    "KangDongSeSac_DX_1-main/프로젝트관리/1._project_기초상식.md"
   ]
 }
