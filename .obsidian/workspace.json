@@ -11,11 +11,9 @@
             "id": "89e478ef0efe770a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Github(software)/Pasted image 20240311120237.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Github(software)/Pasted image 20240311120237.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Github(software)/Pasted image 20240311120237.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Github(software)/Pasted image 20240311120237.png"
               }
             }
           }
@@ -146,11 +144,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4c22ffb6038f7c0d",
+  "active": "89e478ef0efe770a",
   "lastOpenFiles": [
     "Github(software)/Pasted image 20240311120830.png",
-    "Github(software)/Pasted image 20240311120237.png",
+    "README.md",
+    "Artificial Intelligence/Orange/explane.md",
     "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
+    "Github(software)/Pasted image 20240311120237.png",
     "2024.03.11 DT에 도움을 주는 소프트웨어.md",
     "Github(software)",
     "무제 폴더",
@@ -162,14 +162,12 @@
     "Artificial Intelligence/teachablemachine/result.png",
     "Artificial Intelligence/teachablemachine/js.md",
     "Artificial Intelligence/teachablemachine/explane.md",
-    "Artificial Intelligence/Orange/explane.md",
     "Artificial Intelligence/teachablemachine",
     "Artificial Intelligence/Orange",
     "Artificial Intelligence",
     "KangDongSeSac_DX_1-main/개발자와대화법/images/undead.jpg",
     "KangDongSeSac_DX_1-main/개발자와대화법/images/orc.gif",
     "KangDongSeSac_DX_1-main/개발자와대화법/images/nightelf.gif",
-    "KangDongSeSac_DX_1-main/개발자와대화법/images/human.gif",
     "KangDongSeSac_DX_1-main/개발자와대화법/개발자와_대화법.md",
     "KangDongSeSac_DX_1-main/개발자와대화법/images",
     "KangDongSeSac_DX_1-main/개발자와대화법",
@@ -192,7 +190,6 @@
     "KangDongSeSac_DX_1-main/git_obsidian/2.5_파일내용_변경해서_커밋하기 1.md",
     "KangDongSeSac_DX_1-main/git_obsidian/2.6_파일내용_변경해서_커밋하기 2.md",
     "KangDongSeSac_DX_1-main/git_obsidian/2.4_파일추가해서_커밋하기.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/2.3_localgit_최초_커밋하기.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/2.2_localgit_생성하기.md"
+    "KangDongSeSac_DX_1-main/git_obsidian/2.3_localgit_최초_커밋하기.md"
   ]
 }
