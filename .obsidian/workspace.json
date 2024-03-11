@@ -11,8 +11,12 @@
             "id": "89e478ef0efe770a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,9 +146,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "89e478ef0efe770a",
+  "active": "4c22ffb6038f7c0d",
   "lastOpenFiles": [
+    "Github(software)/Pasted image 20240311120830.png",
+    "Github(software)/Pasted image 20240311120237.png",
+    "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
+    "2024.03.11 DT에 도움을 주는 소프트웨어.md",
+    "Github(software)",
     "무제 폴더",
+    "Pasted image 20240311120859.png",
+    "Pasted image 20240311120830.png",
+    "Pasted image 20240311120713.png",
+    "Pasted image 20240311120237.png",
     "artificial intelligence/teachablemachine/js.md",
     "Artificial Intelligence/teachablemachine/result.png",
     "Artificial Intelligence/teachablemachine/js.md",
@@ -153,11 +170,6 @@
     "KangDongSeSac_DX_1-main/개발자와대화법/images/orc.gif",
     "KangDongSeSac_DX_1-main/개발자와대화법/images/nightelf.gif",
     "KangDongSeSac_DX_1-main/개발자와대화법/images/human.gif",
-    "KangDongSeSac_DX_1-main/개발자와대화법/images/dev_meme_6.png",
-    "KangDongSeSac_DX_1-main/개발자와대화법/images/dev_meme_5.png",
-    "KangDongSeSac_DX_1-main/개발자와대화법/images/dev_meme_4.jpg",
-    "KangDongSeSac_DX_1-main/개발자와대화법/images/dev_meme_3.jpg",
-    "KangDongSeSac_DX_1-main/개발자와대화법/images/dev_meme_2.jpg",
     "KangDongSeSac_DX_1-main/개발자와대화법/개발자와_대화법.md",
     "KangDongSeSac_DX_1-main/개발자와대화법/images",
     "KangDongSeSac_DX_1-main/개발자와대화법",
@@ -170,8 +182,6 @@
     "KangDongSeSac_DX_1-main/프로젝트관리/2._프로젝트_관리방법.md",
     "KangDongSeSac_DX_1-main/프로젝트관리/1._project_기초상식.md",
     "KangDongSeSac_DX_1-main/프로젝트관리",
-    "KangDongSeSac_DX_1-main/git_obsidian/data/git_test.zip",
-    "KangDongSeSac_DX_1-main/git_obsidian/data/commit_5_3.zip",
     "KangDongSeSac_DX_1-main/git_obsidian/5._개발자와_디자이너_협업툴.md",
     "KangDongSeSac_DX_1-main/git_obsidian/4._Obsidian과_markdown.md",
     "KangDongSeSac_DX_1-main/git_obsidian/3._GITHUB_활용.md",
@@ -183,8 +193,6 @@
     "KangDongSeSac_DX_1-main/git_obsidian/2.6_파일내용_변경해서_커밋하기 2.md",
     "KangDongSeSac_DX_1-main/git_obsidian/2.4_파일추가해서_커밋하기.md",
     "KangDongSeSac_DX_1-main/git_obsidian/2.3_localgit_최초_커밋하기.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/2.2_localgit_생성하기.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/2.1_sourcetree설치.md",
-    "KangDongSeSac_DX_1-main/git_obsidian/2.10_sourcetree_참고사항.md"
+    "KangDongSeSac_DX_1-main/git_obsidian/2.2_localgit_생성하기.md"
   ]
 }
