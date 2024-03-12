@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
+                "file": "PromptTraining/DigitalTimer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c7d5df64f2f52a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PromptTraining/DigitalTimer.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,49 +225,53 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "63839868de42efea",
+  "active": "5c7d5df64f2f52a9",
   "lastOpenFiles": [
+    "PromptTraining/Chat GPT & Gemini Prompt training.md",
+    "웹개발 이해.md",
+    "PromptTraining/DigitalTimer.md",
+    "무제 파일.canvas",
+    "PromptTraining/lib/scripts/graph-wasm.js",
+    "PromptTraining/lib/scripts/graph-view.js",
+    "PromptTraining/lib/scripts/webpage.js",
+    "PromptTraining/lib/html/file-tree.html",
+    "PromptTraining/lib/html",
+    "PromptTraining/lib/media/874d8b8e340f75575caa.svg",
+    "PromptTraining/lib/media",
+    "PromptTraining/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "PromptTraining/lib/fonts/05b618077343fbbd92b7.ttf",
+    "PromptTraining/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "PromptTraining/lib/fonts/454577c22304619db035.ttf",
+    "PromptTraining/prompttraining/images/2.png",
+    "PromptTraining/prompttraining/images/1.png",
+    "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
+    "Github(software)/디지털역량에 도움주는 소프트웨어 excalidraw.md",
+    "README.md",
     "PromptTraining/images/2.png",
     "PromptTraining/images/1.png",
-    "PromptTraining/DigitalTimer.md",
-    "PromptTraining/Chat GPT & Gemini Prompt training.md",
-    "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
     "Github(software)/ExcalidrawIMG/1.png",
-    "README.md",
-    "PromptTraining/images",
     "Chat.md",
     "KangDongSeSac_DX_1-main/개발자와대화법/개발자와_대화법.md",
     "Artificial Intelligence/teachablemachine/explane.md",
-    "Github(software)/디지털역량에 도움주는 소프트웨어 excalidraw.md",
     "KangDongSeSac_DX_1-main/git_obsidian/4._Obsidian과_markdown.md",
-    "PromptTraining",
     "[Screen.md",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_668.png",
     "[CrankWheel.md",
     "레코딩(캡쳐) 소프트웨어.md",
     "[ChatGPT.md",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_606.png",
-    "Github(software)/ExcalidrawIMG",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_604.png",
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_573.png",
-    "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_527.png",
-    "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_503.png",
     "Excalidraw/Drawing 2024-03-11 12.41.54.excalidraw.md",
     "Excalidraw/Drawing 2024-03-11 12.38.27.excalidraw.md",
-    "KangDongSeSac_DX_1-main/myExcalidraw/github_howto.excalidraw",
-    "Excalidraw",
     "Artificial Intelligence/Orange/explane.md",
     "2024.03.11 DT에 도움을 주는 소프트웨어.md",
-    "Github(software)",
     "artificial intelligence/teachablemachine/js.md",
     "Artificial Intelligence/teachablemachine/js.md",
-    "Artificial Intelligence/teachablemachine",
-    "Artificial Intelligence/Orange",
-    "Artificial Intelligence",
-    "KangDongSeSac_DX_1-main/개발자와대화법/images",
     "KangDongSeSac_DX_1-main/스토리보드/readme.md",
     "KangDongSeSac_DX_1-main/프로젝트관리/5._외주개발_quickstart.md",
     "KangDongSeSac_DX_1-main/프로젝트관리/4._trello_quickstart.md",

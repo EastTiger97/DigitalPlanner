@@ -150,15 +150,3 @@ updateClock();
 ![](images/2.png)
 
 Web: https://output.jsbin.com/mihomaxema/1
-
-
-
-
-
-
-
-
-
-
-
-
