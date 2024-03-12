@@ -4,103 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "72f1f2ac55382df4",
+        "id": "12f2931c87e7b5d1",
         "type": "tabs",
         "children": [
           {
-            "id": "a20aa377c13f9e2f",
+            "id": "38210c903c6c2e0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptTraining/DigitalTimer.md",
+                "file": "웹개발 이해.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c7d5df64f2f52a9",
+            "id": "4e9384ec16c3c395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptTraining/DigitalTimer.md",
+                "file": "HTML이란 무엇인가?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a96540c99224af25",
+            "id": "7a21c30a6e052c56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
+                "file": "HTML이란 무엇인가?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ce1b27d0e551003",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Github(software)/디지털역량에 도움주는 소프트웨어 excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e1b72b3895ed6cf5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Github(software)/디지털역량에 도움주는 소프트웨어 excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0bff4d1502524927",
+            "id": "5005e74ddd730467",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "HTML이란 무엇인가?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a1308b0493229ea",
+            "id": "05cd725ef40dca1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptTraining/Chat GPT & Gemini Prompt training.md",
+                "file": "CSS란 무엇인가?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63839868de42efea",
+            "id": "553792579db819a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptTraining/DigitalTimer.md",
+                "file": "CSS 구조와 필수예제 5개와 설명.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "218510229dd6bb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹개발 이해.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -119,7 +111,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -166,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PromptTraining/DigitalTimer.md",
+                "file": "웹개발 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PromptTraining/DigitalTimer.md",
+                "file": "웹개발 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PromptTraining/DigitalTimer.md"
+                "file": "웹개발 이해.md"
               }
             }
           }
@@ -229,12 +221,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5c7d5df64f2f52a9",
+  "active": "218510229dd6bb93",
   "lastOpenFiles": [
-    "PromptTraining/Chat GPT & Gemini Prompt training.md",
+    "HTML이란 무엇인가?.md",
+    "HTML의 구조.md",
+    "필수 HTML TAG 예제 10가지.md",
+    "CSS란 무엇인가?.md",
+    "CSS 구조와 필수예제 5개와 설명.md",
+    "브라우저에서 웹페이지를 PC에 저장하면 재대로 보이지 않는 이유.md",
+    "README.md",
     "웹개발 이해.md",
-    "PromptTraining/DigitalTimer.md",
+    "무제 파일 1.canvas",
     "무제 파일.canvas",
+    "2024-03-12.md",
+    "Artificial Intelligence/Orange/explane.md",
+    "PromptTraining/DigitalTimer.md",
+    "PromptTraining/Chat GPT & Gemini Prompt training.md",
     "PromptTraining/lib/scripts/graph-wasm.js",
     "PromptTraining/lib/scripts/graph-view.js",
     "PromptTraining/lib/scripts/webpage.js",
@@ -250,7 +252,6 @@
     "PromptTraining/prompttraining/images/1.png",
     "Github(software)/2024.03.11 DT에 도움을 주는 소프트웨어.md",
     "Github(software)/디지털역량에 도움주는 소프트웨어 excalidraw.md",
-    "README.md",
     "PromptTraining/images/2.png",
     "PromptTraining/images/1.png",
     "Github(software)/ExcalidrawIMG/1.png",
@@ -268,15 +269,7 @@
     "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_573.png",
     "Excalidraw/Drawing 2024-03-11 12.41.54.excalidraw.md",
     "Excalidraw/Drawing 2024-03-11 12.38.27.excalidraw.md",
-    "Artificial Intelligence/Orange/explane.md",
     "2024.03.11 DT에 도움을 주는 소프트웨어.md",
-    "artificial intelligence/teachablemachine/js.md",
-    "Artificial Intelligence/teachablemachine/js.md",
-    "KangDongSeSac_DX_1-main/스토리보드/readme.md",
-    "KangDongSeSac_DX_1-main/프로젝트관리/5._외주개발_quickstart.md",
-    "KangDongSeSac_DX_1-main/프로젝트관리/4._trello_quickstart.md",
-    "KangDongSeSac_DX_1-main/프로젝트관리/3._PM의_이슈관리.md",
-    "KangDongSeSac_DX_1-main/프로젝트관리/2._프로젝트_관리방법.md",
-    "KangDongSeSac_DX_1-main/프로젝트관리/1._project_기초상식.md"
+    "artificial intelligence/teachablemachine/js.md"
   ]
 }
