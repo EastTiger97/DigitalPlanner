@@ -4,18 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "12f2931c87e7b5d1",
+        "id": "77e9e9a82db91dda",
         "type": "tabs",
         "children": [
           {
-            "id": "218510229dd6bb93",
+            "id": "b0159eccca633f7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "쿠팡 컬리 도메인 분석/coopangVSkurly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa9f1c4576470b5c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "쿠팡 컬리 도메인 분석/coopang Lighthouse Report.pdf"
+              }
+            }
+          },
+          {
+            "id": "9b9c1f938799582c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_521.png"
+              }
+            }
+          },
+          {
+            "id": "2baff4fa782d8bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "쿠팡 컬리 도메인 분석/coopangVSkurly.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "쿠팡 컬리 도메인 분석/coopangVSkurly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "쿠팡 컬리 도메인 분석/coopangVSkurly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "쿠팡 컬리 도메인 분석/coopangVSkurly.md"
+              }
             }
           }
         ]
@@ -137,58 +178,95 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "4c22ffb6038f7c0d",
+  "floating": {
+    "id": "9d29f990aeb2ec03",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3a99096cfa2cde12",
+        "type": "window",
+        "children": [
+          {
+            "id": "beb69a049ca6251e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "218510229dd6bb93",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 457,
+        "y": 309,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2baff4fa782d8bc6",
   "lastOpenFiles": [
-    "Web_Study_24.03.12/7_브라우저에서 웹페이지를 PC에 저장하면 재대로 보이지 않는 이유.md",
-    "Web_Study_24.03.12/5_CSS란 무엇인가?.md",
-    "Web_Study_24.03.12/6_CSS 구조와 필수예제 5개와 설명.md",
-    "Web_Study_24.03.12/4_필수 HTML TAG 예제 10가지.md",
-    "Web_Study_24.03.12/2_HTML이란 무엇인가?.md",
-    "Web_Study_24.03.12/3_HTML의 구조.md",
-    "Web_Study_24.03.12/1_웹개발 이해.md",
-    "Web_Study_24.03.12",
+    "Excalidraw/Drawing 2024-03-15 20.09.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-15 20.10.41.excalidraw.md",
+    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_521.png",
+    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_519.png",
+    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_493.png",
+    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_431.png",
+    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_418.png",
+    "쿠팡 컬리 도메인 분석/coopang Lighthouse Report.pdf",
+    "쿠팡 컬리 도메인 분석/coopangVSkurly.md",
+    "README.md",
+    "쿠팡 컬리 도메인 분석",
+    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_468.png",
+    "link_to_coupang.md",
+    "link_to_kurly.md",
+    "Excalidraw",
+    "KangDongSeSac_DX_1-main/myExcalidraw/github_howto.excalidraw",
+    "KangDongSeSac_DX_1-main/개발자와대화법/images/dev_meme_1.jpg",
+    "PromptTraining/Chat GPT & Gemini Prompt training.md",
+    "Lighthouse",
+    "Lighthouse Report Viewer.md",
+    "Omnivore/2024-03-13/Getting Started with Omnivore.md",
+    "Omnivore/2024-03-13/옵시디언 웹 스크랩핑 가이드의 모든 것.md",
+    "Omnivore/2024-03-13/The Secret Power of ‘Read It Later’ Apps.md",
+    "Omnivore/2024-03-13/Organize your Omnivore library with labels.md",
+    "Omnivore/2024-03-13",
+    "Omnivore",
+    "www.coupang.com.html",
+    "2024-03-13.md",
+    "무제 파일.canvas",
+    "KangDongSeSac_DX_1-main/프로젝트관리/2._프로젝트_관리방법.md",
+    "Artificial Intelligence/teachablemachine/explane.md",
+    "WebStudy_24.03.12/4_필수 HTML TAG 예제 10가지.md",
+    "WebStudy_24.03.12/5_CSS란 무엇인가?.md",
+    "WebStudy_24.03.12/6_CSS 구조와 필수예제 5개와 설명.md",
+    "WebStudy_24.03.12/3_HTML의 구조.md",
+    "WebStudy_24.03.12/1_웹개발 이해.md",
+    "WebStudy_24.03.12/7_브라우저에서 웹페이지를 PC에 저장하면 재대로 보이지 않는 이유.md",
+    "WebStudy_24.03.12/2_HTML이란 무엇인가?.md",
+    "WebStudy_24.03.12",
     "24.03.12_HTML_Study/6_CSS 구조와 필수예제 5개와 설명.md",
     "24.03.12_HTML_Study/5_CSS란 무엇인가?.md",
     "24.03.12_HTML_Study/4_필수 HTML TAG 예제 10가지.md",
-    "24.03.12_HTML_Study/3_HTML의 구조.md",
-    "24.03.12_HTML_Study/2_HTML이란 무엇인가?.md",
-    "24.03.12_HTML_Study/1_웹개발 이해.md",
-    "24.03.12_HTML_Study/7_브라우저에서 웹페이지를 PC에 저장하면 재대로 보이지 않는 이유.md",
-    "24.03.12_HTML_Study/브라우저에서 웹페이지를 PC에 저장하면 재대로 보이지 않는 이유.md",
-    "24.03.12_HTML_Study/0_웹개발 이해.md",
-    "웹개발 이해.md",
-    "24.03.12_HTML_Study/웹개발 이해.md",
-    "24.03.12_HTML_Study/5_CSS 구조와 필수예제 5개와 설명.md",
-    "24.03.12_HTML_Study/CSS 구조와 필수예제 5개와 설명.md",
-    "24.03.12_HTML_Study/4_CSS란 무엇인가?.md",
-    "24.03.12_HTML_Study/CSS란 무엇인가?.md",
-    "24.03.12_HTML_Study/3_필수 HTML TAG 예제 10가지.md",
-    "필수 HTML TAG 예제 10가지.md",
-    "24.03.12_HTML_Study/필수 HTML TAG 예제 10가지.md",
-    "24.03.12_HTML_Study/2_HTML의 구조.md",
     "24.03.12_HTML_Study",
-    "무제 폴더",
     "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "PromptTraining/lib/scripts/graph-wasm.js",
-    "PromptTraining/lib/scripts/graph-view.js",
-    "PromptTraining/lib/scripts/webpage.js",
-    "PromptTraining/lib/html/file-tree.html",
-    "PromptTraining/lib/html",
     "PromptTraining/lib/media/874d8b8e340f75575caa.svg",
-    "PromptTraining/lib/media",
-    "PromptTraining/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "PromptTraining/prompttraining/images/2.png",
-    "PromptTraining/prompttraining/images/1.png",
-    "PromptTraining/images/2.png",
-    "PromptTraining/images/1.png",
-    "Github(software)/ExcalidrawIMG/1.png",
-    "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_668.png",
-    "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_606.png",
-    "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_604.png",
-    "Github(software)/ExcalidrawIMG/Pasted Image 20240311124411_573.png"
+    "PromptTraining/prompttraining/images/1.png"
   ]
 }
