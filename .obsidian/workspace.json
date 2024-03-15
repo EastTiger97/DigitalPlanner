@@ -20,22 +20,14 @@
             }
           },
           {
-            "id": "aa9f1c4576470b5c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "쿠팡 컬리 도메인 분석/coopang Lighthouse Report.pdf"
-              }
-            }
-          },
-          {
             "id": "9b9c1f938799582c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_521.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -51,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,18 +210,21 @@
       }
     ]
   },
-  "active": "2baff4fa782d8bc6",
+  "active": "b0159eccca633f7e",
   "lastOpenFiles": [
+    "쿠팡 컬리 도메인 분석/www.kurly.com.html",
+    "README.md",
+    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_431.png",
+    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_418.png",
+    "쿠팡 컬리 도메인 분석/coopangVSkurly.md",
+    "쿠팡 컬리 도메인 분석/coopang Lighthouse Report.pdf",
+    "쿠팡 컬리 도메인 분석/kyrlyLighthouse Report.pdf",
+    "쿠팡 컬리 도메인 분석/www.coupang.com.html",
     "Excalidraw/Drawing 2024-03-15 20.09.57.excalidraw.md",
     "Excalidraw/Drawing 2024-03-15 20.10.41.excalidraw.md",
     "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_521.png",
     "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_519.png",
     "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_493.png",
-    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_431.png",
-    "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_418.png",
-    "쿠팡 컬리 도메인 분석/coopang Lighthouse Report.pdf",
-    "쿠팡 컬리 도메인 분석/coopangVSkurly.md",
-    "README.md",
     "쿠팡 컬리 도메인 분석",
     "쿠팡 컬리 도메인 분석/Pasted Image 20240315201056_468.png",
     "link_to_coupang.md",
@@ -259,11 +253,9 @@
     "WebStudy_24.03.12/1_웹개발 이해.md",
     "WebStudy_24.03.12/7_브라우저에서 웹페이지를 PC에 저장하면 재대로 보이지 않는 이유.md",
     "WebStudy_24.03.12/2_HTML이란 무엇인가?.md",
-    "WebStudy_24.03.12",
     "24.03.12_HTML_Study/6_CSS 구조와 필수예제 5개와 설명.md",
     "24.03.12_HTML_Study/5_CSS란 무엇인가?.md",
     "24.03.12_HTML_Study/4_필수 HTML TAG 예제 10가지.md",
-    "24.03.12_HTML_Study",
     "무제 파일 1.canvas",
     "PromptTraining/lib/media/874d8b8e340f75575caa.svg",
     "PromptTraining/prompttraining/images/2.png",
